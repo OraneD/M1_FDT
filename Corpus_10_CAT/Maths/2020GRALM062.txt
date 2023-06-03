@@ -1,0 +1,1 @@
+Cette thèse s'intéresse aux opérateurs de transfert d'extensions circulaires d'applications hyperboliques. On y obtient un résultat de convergence en loi dans un régime semi-classique (temps d'Ehrenfest) pour les traces plates des opérateurs de transfert réduits, lorsque la fonction toit est aléatoire.

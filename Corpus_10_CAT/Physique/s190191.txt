@@ -1,0 +1,1 @@
+Dans le cadre de ce travail, des filtres passe-bande hyperfréquences ont été développées pour répondre à des spécifications proposées en bandes W et G. Nous avons utilisé la technologie de micro-fabrication additive permettant d’avoir des cavités métalliques à air avec un fort facteur de qualité.

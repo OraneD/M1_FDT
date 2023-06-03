@@ -1,0 +1,1 @@
+L'objectif de la thèse est d'étudier des systèmes couplant des équations modélisant un fluide visqueux incompressible et des équations de structure d'un point de vue du contrôle : en agissant sur une partie du domaine fluide ou du domaine structure, on cherche à amener les vitesses du fluide et de la structure à des vitesses données par avance.

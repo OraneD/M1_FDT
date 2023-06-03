@@ -1,0 +1,1 @@
+Ce projet vise à développer des composites renforcés par des bio-ressources (principalement en utilisant des fibres de lin et des bio-résines) avec une structure sandwich avancée par piquage. Pour optimiser ce processus, il est essentiel de mener une étude spécifique sur l’analyse du comportement mécanique sous divers paramètres en piquage.
