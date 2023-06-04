@@ -4,3 +4,8 @@
 * essais avec différents classifieurs
 
 Voir [Rapport](Rapport.pdf)
+
+
+Réalisé par : 
+ - Orane Dufour [Git](https://github.com/OraneD)
+ - Mikhail Biriuchinskii [Git](https://github.com/MichaBiriuchinskii)
